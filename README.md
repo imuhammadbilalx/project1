@@ -41,7 +41,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[hello techwise]** is a...
+**[]** It is a Hello Techwise project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,23 +55,6 @@
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-
-
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
@@ -146,7 +129,7 @@ You can deploy this project using:
 
 👤 **Author1**
 
-- GitHub: [https://github.com/](https://github.com/githubhandle)
+- GitHub: [https://github.com/](https://github.com/imuhammadbilalx)
 
 
 
